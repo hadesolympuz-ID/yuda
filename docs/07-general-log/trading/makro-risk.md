@@ -1,7 +1,7 @@
 # Log 1 — Risiko Ternyata Bukan Angka
-date : 18 July 2026
-element : risk
-sub : Makro Ekonomi Dunia
+date : 18 July 2026 |
+element : risk |
+sub : Makro Ekonomi Dunia |
 
 
 Hari ini saya memahami bahwa dalam ekonomi makro global, **risiko bukanlah sesuatu yang dapat diukur secara absolut.**
