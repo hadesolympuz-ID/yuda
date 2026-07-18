@@ -1,8 +1,18 @@
 # Log 1 — Risiko Ternyata Bukan Angka
-date : 18 July 2026 |
-element : risk |
-sub : Makro Ekonomi Dunia |
 
+id: LOG-001 
+title: Risiko Ternyata Bukan Angka 
+aliases: - Risiko Ternyata Bukan Angka
+date: 2026-07-18 
+element: - Risk 
+category: - Macro
+sub: - Global Economy 
+status: Active parent: 
+knowledge_source: 
+tags: 
+- risk 
+- macro 
+- vix
 
 Hari ini saya memahami bahwa dalam ekonomi makro global, **risiko bukanlah sesuatu yang dapat diukur secara absolut.**
 
@@ -34,3 +44,5 @@ Kesimpulan saya hari ini sederhana.
 
 **Risiko tidak dapat dilihat secara langsung. Yang dapat diamati adalah bagaimana manusia bereaksi terhadap persepsi risiko tersebut. Pasar hanyalah kumpulan dari reaksi itu.**
 **Perubahan perilaku manusia terhadap risiko dapat diamati. Memahami perubahan perilaku tersebut menjadi salah satu cara untuk memahami arah pasar.**
+
+
