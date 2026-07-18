@@ -16,4 +16,6 @@ new logs should be created instead of rewriting the past.
 
 Knowledge is never complete.
 
+Don't fall in love with an idea. Let it survive the test first.
+
 Understanding never ends.
