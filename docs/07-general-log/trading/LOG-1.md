@@ -1,5 +1,5 @@
 ---
-id: LOG-001
+id: LOG-1
 title: Risiko Ternyata Bukan Angka
 aliases:
   - Risiko Ternyata Bukan Angka
