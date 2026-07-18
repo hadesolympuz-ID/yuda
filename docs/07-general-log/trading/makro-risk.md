@@ -33,4 +33,4 @@ Meskipun demikian, hubungan tersebut bukanlah hukum yang selalu berlaku. Korelas
 Kesimpulan saya hari ini sederhana.
 
 **Risiko tidak dapat dilihat secara langsung. Yang dapat diamati adalah bagaimana manusia bereaksi terhadap persepsi risiko tersebut. Pasar hanyalah kumpulan dari reaksi itu.**
-
+**Perubahan perilaku manusia terhadap risiko dapat diamati. Memahami perubahan perilaku tersebut menjadi salah satu cara untuk memahami arah pasar.**
