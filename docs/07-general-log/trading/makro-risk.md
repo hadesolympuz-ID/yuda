@@ -30,12 +30,6 @@ tags:
 ---
 
 > **Date:** 18 July 2026
->
-> **Element:** Risk
->
-> **Category:** Macro
->
-> **Status:** Active
 
 
 Hari ini saya memahami bahwa dalam ekonomi makro global, **risiko bukanlah sesuatu yang dapat diukur secara absolut.**
