@@ -61,3 +61,15 @@ Conclude.
 Question.
 
 Repeat.
+
+---
+## Project Status
+
+🚧 YUDA is currently in active development.
+
+This repository is built in public.
+
+Every architectural decision, discussion, and iteration is documented openly.
+
+The goal is not only to build YUDA,
+but also to preserve the journey of building it.
