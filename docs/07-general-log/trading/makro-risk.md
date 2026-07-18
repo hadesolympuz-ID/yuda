@@ -1,18 +1,42 @@
 # Log 1 — Risiko Ternyata Bukan Angka
 
-id: LOG-001 
-title: Risiko Ternyata Bukan Angka 
-aliases: - Risiko Ternyata Bukan Angka
-date: 2026-07-18 
-element: - Risk 
-category: - Macro
-sub: - Global Economy 
-status: Active parent: 
-knowledge_source: 
-tags: 
-- risk 
-- macro 
-- vix
+---
+id: LOG-001
+title: Risiko Ternyata Bukan Angka
+aliases:
+  - Risiko Ternyata Bukan Angka
+
+date: 2026-07-18
+
+element:
+  - Risk
+
+category:
+  - Macro
+
+sub:
+  - Global Economy
+
+status: Active
+
+parent: []
+
+knowledge_source: []
+
+tags:
+  - risk
+  - macro
+  - vix
+---
+
+> **Date:** 18 July 2026
+>
+> **Element:** Risk
+>
+> **Category:** Macro
+>
+> **Status:** Active
+
 
 Hari ini saya memahami bahwa dalam ekonomi makro global, **risiko bukanlah sesuatu yang dapat diukur secara absolut.**
 
