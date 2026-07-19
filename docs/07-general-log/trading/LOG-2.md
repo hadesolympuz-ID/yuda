@@ -126,19 +126,11 @@ Mengukur kecepatan perpindahan.
 
 Movement:
 
-100 pip
-
-dalam
-
-5 candle
+100 pip dalam 5 candle
 
 lebih cepat daripada
 
-100 pip
-
-dalam
-
-20 candle.
+100 pip dalam 20 candle.
 
 Velocity tidak berbicara mengenai arah.
 
